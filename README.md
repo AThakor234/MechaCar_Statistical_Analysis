@@ -7,4 +7,7 @@
   2.  The slope of the linear model is not considered zero because their is a linear relationship.
 
   3. Linear model predict mpg of MechCar prototype effectively because the p- values is not less than zero.
-  
+ 
+## Summary Statistics on Suspension Coils
+
+  Lot1 and Lot2 does not exceed 100 pounds per square inch. Whereas, Lot3 exceeds the limitations.
